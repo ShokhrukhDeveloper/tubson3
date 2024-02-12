@@ -1,0 +1,14 @@
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.AssemblyInfoInputs.cache
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.AssemblyInfo.cs
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.csproj.CoreCompileInputs.cache
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\bin\Debug\net8.0\tubson3.exe
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\bin\Debug\net8.0\tubson3.deps.json
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\bin\Debug\net8.0\tubson3.runtimeconfig.json
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\bin\Debug\net8.0\tubson3.dll
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\bin\Debug\net8.0\tubson3.pdb
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.dll
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\refint\tubson3.dll
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.pdb
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\tubson3.genruntimeconfig.cache
+C:\Users\Shoxrux\OneDrive\Desktop\projects\tubson3\obj\Debug\net8.0\ref\tubson3.dll
